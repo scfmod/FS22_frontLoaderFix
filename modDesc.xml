@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+    <author>scfmod</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Front Loader Fix</en>
+    </title>
+    <description>
+        <en><![CDATA[Prevents locking joints when attaching frontloader to your tractor]]></en>
+    </description>
+    <iconFilename>store.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="FrontLoaderFix.lua" />
+    </extraSourceFiles>
+</modDesc>
